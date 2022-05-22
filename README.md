@@ -1,6 +1,6 @@
 <h1><img src="./images/nlw8icon.png" width="32px"/> Projeto Next Level Week 8 - Return </h1>
 
-## Fotos da aplicação:
+## Application photos:
  
 <div>
     <h3>Web APP:</h3>
@@ -10,12 +10,6 @@
         <img src="./images/idea-option.png" width="24.6%" alt="">
         <img src="./images/idea-option-sending.png" width="24.6%" alt="">
         <img src="./images/feedback-send.png" width="24.6%" alt="">
-    </p>
-    <hr/>
-    <h3>Server (Database | Email):</h3>
-    <p style="display: flex; margin-top: 20px" >
-        <img src="./images/railway-database.png" width="49%" alt="">
-        <img src="./images/mailtrap-emails.png" width="49%" alt="">
     </p>
     <hr/>
     <h3>Mobile APP:</h3>
@@ -42,19 +36,19 @@ This project was developed with the following technologies:
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.dev/)
 
-## Instruções para visualizar o projeto
+## Instructions for viewing the project
 
-### Requerimentos
+### Requirements
 
 - [Node.js](https://nodejs.org/en/download/)
 
 ```bash
     # Clone Repository
-    git clone https://github.com/AndersonAlvesCoelho/feedback-widget
-    cd feedback-widget
+    git clone https://github.com/RobsonLuisCichelero/nlw-return.git
+    cd nlw-return
 ```
 
-#### 💻 Frontend
+#### 💻 Front-end
 
 ```bash
     cd /web
@@ -74,7 +68,7 @@ This project was developed with the following technologies:
     npm run dev
 ```
 
-#### 📦 Back end
+#### 📦 Back-end
 
 ```bash
     cd /back-end
